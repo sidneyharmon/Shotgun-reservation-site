@@ -1,0 +1,12 @@
+/* Custom CSS by Sidney and Ashauntia
+   for Shotgun / Dibs project
+   CIS 267 */
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h2, h4, h5, h6 {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
