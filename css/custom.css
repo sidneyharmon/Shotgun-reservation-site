@@ -2,11 +2,56 @@
    for Shotgun / Dibs project
    CIS 267 */
 
-body{
+body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h2, h4, h5, h6 {
+.container-fluid {
+    background-color: #FFFFFF;
+    color: #661424;
+}
+
+.navh4 {
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
+    color: #661424;
+}
+
+.navh4:hover {
+    color: #661424;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+{
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    margin: 1rem;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: #661424;
+    color: #FFFFFF;
+}
+
+.btn {
+    background-color: #661424;
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color: #FFFFFF;
+    color: #661424;
+    text-decoration: underline;
+    border: .1rem solid #661424;
 }
