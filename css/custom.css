@@ -55,3 +55,28 @@ h1 {
     text-decoration: underline;
     border: .1rem solid #661424;
 }
+
+.breadcrumb {
+    background-color: #661424;
+}
+
+.breadcrumb a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.special-option {
+    border: .1rem solid #661424;
+}
+
+.special-btn {
+    margin-top: .5rem;
+}
+
+.special-card {
+    border: 1rem solid #661424;
+}
