@@ -1,4 +1,4 @@
-﻿Homework 5 // Shotgun Prototype
+Homework 5 // Shotgun Prototype
 
 App Dev I - CIS 267
 
@@ -15,6 +15,6 @@ Views
 4. Room Details
 5. Reservations 
 
-Deadline: Saturday, 10/7 at 11:59
+Deadline: Sunday, 10/8 at 11:59 PM
 
 Deliverable: Link to your GitHub repo.

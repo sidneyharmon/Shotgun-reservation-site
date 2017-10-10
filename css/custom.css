@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    background-color:#F1F1F1;
 }
 
 .container-fluid {
@@ -11,13 +12,13 @@ body {
     color: #661424;
 }
 
-.navh4 {
+.nav h4 {
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     color: #661424;
 }
 
-.navh4:hover {
+.nav h4:hover {
     color: #661424;
     text-decoration: none;
 }
@@ -45,6 +46,13 @@ h1 {
 .btn {
     background-color: #661424;
     color: #FFFFFF;
+}
+
+header{
+    border-bottom: 1px solid black;
+}
+
+.navbar-brand {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
 }
@@ -52,7 +60,7 @@ h1 {
 .btn:hover {
     background-color: #FFFFFF;
     color: #661424;
-    text-decoration: underline;
+    text-decoration: none;
     border: .1rem solid #661424;
 }
 
@@ -79,4 +87,8 @@ h1 {
 
 .special-card {
     border: 1rem solid #661424;
+}
+
+.card {
+    margin:15px;
 }
