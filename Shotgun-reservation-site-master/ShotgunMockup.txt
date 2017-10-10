@@ -1,0 +1,20 @@
+﻿Homework 5 // Shotgun Prototype
+
+App Dev I - CIS 267
+
+Description: Design and implement a prototype for a Dibs replacement web app. 
+
+Sidney Harmon
+Ashauntia Smith
+
+
+Views 
+1. Home/Search
+2. Results - Times 
+3. Results - Room 
+4. Room Details
+5. Reservations 
+
+Deadline: Saturday, 10/7 at 11:59
+
+Deliverable: Link to your GitHub repo.
